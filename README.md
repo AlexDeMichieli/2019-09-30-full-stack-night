@@ -1,5 +1,10 @@
 # PythonFullStack2
 
+## 🎉 A Programming Joke to Start Your Day!
+
+**Q: Why do programmers prefer dark mode?**  
+**A: Because light attracts bugs!** 🐛
+
 [![Build Status](https://travis-ci.org/PdxCodeGuild/PythonFullStack2.svg?branch=master)](https://travis-ci.org/PdxCodeGuild/PythonFullStack2)
 ![Coverage](./.meta/media/coverage.svg)
 
